@@ -1,1 +1,1 @@
-# The File Contains the angular application which are assignment.It contains the different applcations related to Angular 17.
+# The File Contains the angular assignments .It contains the different angular 17 applications.
