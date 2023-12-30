@@ -1,2 +1,1 @@
-# Marvellous_Angular_Ass
-# Marvellous_Angular_Ass
+# The File Contains the angular application which are assignment.It contains the different applcations related to Angular 17.
